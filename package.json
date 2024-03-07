@@ -1,0 +1,26 @@
+{
+  "name": "codecrafters-mytea",
+  "version": "1.0.0",
+  "description": "Welcome to CodeCrafters! CodeCrafters is a collaborative platform for developers to craft elegant and efficient solutions to real-world problems. Whether you're a novice coder or a seasoned expert, CodeCrafters offers a supportive environment to hone your skills and unleash your creativity.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/senyi123-tech/CodeCrafters.git"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "senyi123-tech",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }
